@@ -12,4 +12,4 @@ Ready-to-use templates for high-earning Fiverr gigs.
 ## Getting Started
 1. Customize templates for your skills
 2. Create Fiverr gigs
-3. Deliver via Stripe payment links
+3. Process all Fiverr order payments through Fiverr and submit completed work through the Fiverr order page. Do not use external payment links for Fiverr orders.
